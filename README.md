@@ -2,6 +2,8 @@
 
 ## TTS Tensorflow description with the different  models
 
+This was introduced in the Tunis Tensorflow Meetup on July 3rd. 
+
 This is based on the TTS Tensorspeech project: 
 * Github: https://github.com/TensorSpeech/TensorflowTTS
 * Audio samples:  https://tensorspeech.github.io/TensorflowTTS/
